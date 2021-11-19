@@ -1,0 +1,13 @@
+Variables : Es una forma delamacenar el valor de algo para usar mas tarde
+        Para crearla utilizas la palabra VAR seguido de un espacio y el nombre de la variable y se le puede asignar un valor usando el signo =
+
+ Strings : son bloques de texto, simpre se definen entre comillas , ya sea simple odoble cualquier texto entre comillas es una cadena o Strings
+
+ Funciones : son una parte importante en todo lenjuague , son tipos particulares de objetos llambles o invocables 
+          Ahora que tenemos un conjuto de variables necesitamos de las funciones para calcularlas cambiarlas, hacer algo con ellas 
+        Para ejecutarlas hay que pasarle Argumentos los cuales van en()
+        La declaracion Return es la unica forma que los datos escapan o salen de la funcion , cuando esta se encuantra con la delcarion Return se detiene inmediatamente y devuelve lo especificado.
+
+Declaraciones IF : se usan para el control de flujoj de las funciones para verificar si algo es verdadero (True) y ya sea ejecutando el codigo suministrado si es asi o avanzando si no lo es.
+
+Valores booleanos : Son los que devuelven las funciones para verificarlas si la funcion es true se detendra, si no es asi omitira al codigo y la funcion devolvera false
